@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; Prevent scroll bars */
+    cursor:url("cursor/pointyfinger.png"), auto;
+    
+    
+  }
+  
+  canvas {
+    display: block;
+  }
+  
+  .a-loader-title {
+    color: rgb(0, 0, 0);
+  }
+  
